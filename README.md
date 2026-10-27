@@ -1,16 +1,23 @@
-## Hi there 👋
+# Felipe Bernal Cerpa
 
-<!--
-**FelipeBernalCerpa/FelipeBernalCerpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build AI automations and apps. Founder of [Synaris](https://synaris.co), where I design AI agents and automations that run real business processes, like answering customers on WhatsApp, taking orders and handing off to a human when needed.
 
-Here are some ideas to get you started:
+## What I am building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Ascend.** A personal health and habits tracker in Spanish, with a daily plan, habits, an AI assistant with safety rules for minors, and a game layer with levels, friends and clans. Built with vanilla JavaScript, Supabase and a Vercel serverless function that calls the Claude API.
+
+**Synaris Control.** A private dashboard for my clients that shows the conversations, orders and human handoffs of their WhatsApp agent.
+
+**AI video automation.** An n8n workflow that researches a topic, writes and fact-checks a script, creates a video with an AI avatar, edits it and publishes it. Code: [ai-video-automation-n8n](https://github.com/FelipeBernalCerpa/ai-video-automation-n8n).
+
+## Tools I work with
+
+JavaScript, TypeScript, React, Tailwind, Supabase (auth, Postgres, row level security), Vercel, n8n, Claude API, OpenAI API, HeyGen, ElevenLabs.
+
+## How I work
+
+I design the product, make the decisions and test what I ship, and I build with AI coding tools. I care about the boring parts that make software trustworthy: privacy, per-user data access, API keys kept on the server, and safe behavior around health data.
+
+## Contact
+
+Website: [synaris.co](https://synaris.co)
