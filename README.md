@@ -4,7 +4,7 @@ I build AI automations and apps. Founder of [Synaris](https://synaris.co), where
 
 ## What I am building
 
-**[Ascend](https://github.com/FelipeBernalCerpa/ascend).** A personal health and habits tracker in Spanish, with a daily plan, habits, an AI assistant with safety rules for minors, and a game layer with levels, friends and clans. Built with vanilla JavaScript, Supabase and a Vercel serverless function that calls the Claude API.
+**[Ascend](https://github.com/FelipeBernalCerpa/ascend).** A personal health and habits tracker in Spanish, with a daily plan, habits, an AI assistant with safety rules for minors, and a game layer with levels, friends and clans. Built with vanilla JavaScript, Supabase and a Vercel serverless function that calls the Claude API. [Try the live app](https://ascend-murex-nine.vercel.app).
 
 **Synaris Control.** A private dashboard for my clients that shows the conversations, orders and human handoffs of their WhatsApp agent.
 
